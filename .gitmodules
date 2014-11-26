@@ -1,0 +1,3 @@
+[submodule "fmaj7"]
+	path = fmaj7
+	url = git@github.com:fmaj7/leetcode.git
